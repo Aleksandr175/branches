@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new text
 12545sss
+=======
+fdfd
+rr
+>>>>>>> new changes
